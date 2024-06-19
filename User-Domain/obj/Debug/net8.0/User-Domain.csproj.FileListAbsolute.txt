@@ -1,0 +1,11 @@
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\bin\Debug\net8.0\User-Domain.deps.json
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\bin\Debug\net8.0\User-Domain.dll
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\bin\Debug\net8.0\User-Domain.pdb
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\User-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\User-Domain.AssemblyInfoInputs.cache
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\User-Domain.AssemblyInfo.cs
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\User-Domain.csproj.CoreCompileInputs.cache
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\User-Domain.dll
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\refint\User-Domain.dll
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\User-Domain.pdb
+C:\Users\Estagiario2\source\repos\Rifa\User-Domain\obj\Debug\net8.0\ref\User-Domain.dll

@@ -1,0 +1,6 @@
+@Rifa_HostAddress = http://localhost:5069
+
+GET {{Rifa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
