@@ -3378,11 +3378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\RifaApp\\RifaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\RifaApp\\RifaApp.csproj",
       "projectName": "RifaApp",
-      "projectPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\RifaApp\\RifaApp.csproj",
+      "projectPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\RifaApp\\RifaApp.csproj",
       "packagesPath": "C:\\Users\\Estagiario2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\RifaApp\\obj\\",
+      "outputPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\RifaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Estagiario2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3400,14 +3400,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\Rifa\\Rifa.API.csproj": {
-              "projectPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\Rifa\\Rifa.API.csproj"
+            "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\Rifa\\Rifa.API.csproj": {
+              "projectPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\Rifa\\Rifa.API.csproj"
             },
-            "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Domain\\User.Domain.csproj": {
-              "projectPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Domain\\User.Domain.csproj"
+            "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\User.Domain.csproj": {
+              "projectPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\User.Domain.csproj"
             },
-            "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj": {
-              "projectPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj"
+            "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj": {
+              "projectPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj"
             }
           }
         }

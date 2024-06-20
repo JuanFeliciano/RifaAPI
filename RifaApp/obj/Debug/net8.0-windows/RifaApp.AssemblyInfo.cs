@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RifaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+558910fe365bc7284321b4763927cd7f2cde6afd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RifaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RifaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

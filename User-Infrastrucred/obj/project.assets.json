@@ -2770,11 +2770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj",
+      "projectUniqueName": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj",
       "projectName": "User-Infrastrucred",
-      "projectPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj",
+      "projectPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj",
       "packagesPath": "C:\\Users\\Estagiario2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Infrastrucred\\obj\\",
+      "outputPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Estagiario2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2792,8 +2792,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Domain\\User.Domain.csproj": {
-              "projectPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Domain\\User.Domain.csproj"
+            "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\User.Domain.csproj": {
+              "projectPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\User.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/CnpHDHUzM=",
+  "dgSpecHash": "WZ84WKmLYvw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj",
+  "projectFilePath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Estagiario2\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Estagiario2\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

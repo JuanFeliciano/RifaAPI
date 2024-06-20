@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Domain\\User.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\User.Domain.csproj",
       "projectName": "User.Domain",
-      "projectPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Domain\\User.Domain.csproj",
+      "projectPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\User.Domain.csproj",
       "packagesPath": "C:\\Users\\Estagiario2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estagiario2\\source\\repos\\Rifa\\User-Domain\\obj\\",
+      "outputPath": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Estagiario2\\AppData\\Roaming\\NuGet\\NuGet.Config",
