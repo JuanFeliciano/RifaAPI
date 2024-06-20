@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{53E723A5-1A19-476C-AE81-34D23CB02AB0}|Rifa\\Rifa.API.csproj|solutionrelative:rifa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53E723A5-1A19-476C-AE81-34D23CB02AB0}|Rifa\\Rifa.API.csproj|c:\\users\\estagiario2\\desktop\\movtechprojects\\rifa\\rifa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53E723A5-1A19-476C-AE81-34D23CB02AB0}|Rifa\\Rifa.API.csproj|solutionrelative:rifa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35FA7F-E6B6-4872-A00A-B7A35E286A5C}|Itens de Solu\u00E7\u00E3o{1E35FA7F-E6B6-4872-A00A-B7A35E286A5C}|C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1E35FA7F-E6B6-4872-A00A-B7A35E286A5C}|Itens de Solu\u00E7\u00E3o{1E35FA7F-E6B6-4872-A00A-B7A35E286A5C}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85ABCDB9-56F6-49C6-AD36-E5DE63A88625}|User-Domain\\User.Domain.csproj|c:\\users\\estagiario2\\desktop\\movtechprojects\\rifa\\user-domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85ABCDB9-56F6-49C6-AD36-E5DE63A88625}|User-Domain\\User.Domain.csproj|solutionrelative:user-domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{6C9DC006-15A7-4C32-876E-8C9267C6C4A3}|RifaApp\\RifaApp.csproj|solutionrelative:rifaapp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E723A5-1A19-476C-AE81-34D23CB02AB0}|Rifa\\Rifa.API.csproj|c:\\users\\estagiario2\\desktop\\movtechprojects\\rifa\\rifa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{53E723A5-1A19-476C-AE81-34D23CB02AB0}|Rifa\\Rifa.API.csproj|solutionrelative:rifa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B26B68C-2653-4286-AFBF-32EC270AD8EA}|User-Infrastrucred\\User-Infrastrucred.csproj|c:\\users\\estagiario2\\desktop\\movtechprojects\\rifa\\user-infrastrucred\\user-infrastrucred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2B26B68C-2653-4286-AFBF-32EC270AD8EA}|User-Infrastrucred\\User-Infrastrucred.csproj|solutionrelative:user-infrastrucred\\user-infrastrucred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-20T17:04:05.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserApp.cs",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\RifaApp\\UserApp.cs",
               "RelativeDocumentMoniker": "RifaApp\\UserApp.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\RifaApp\\Form1.resx",
               "RelativeDocumentMoniker": "RifaApp\\Form1.resx",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\RifaApp\\Form1.cs",
               "RelativeDocumentMoniker": "RifaApp\\Form1.cs",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\RifaApp\\Form1.cs",
               "RelativeDocumentMoniker": "RifaApp\\Form1.cs",
@@ -112,15 +129,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\Rifa\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Rifa\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\Rifa\\Properties\\launchSettings.json",
               "RelativeToolTip": "Rifa\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCkAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-19T17:53:34.517Z"
+              "WhenOpened": "2024-06-19T17:53:34.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,14 +148,14 @@
               "RelativeDocumentMoniker": "Rifa\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\Rifa\\Controllers\\UserController.cs",
               "RelativeToolTip": "Rifa\\Controllers\\UserController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAkwD8AAABiAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwD8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T17:29:32.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "User-Domain\\Entities\\User.cs",
@@ -150,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\Rifa\\appsettings.json",
               "RelativeDocumentMoniker": "Rifa\\appsettings.json",
@@ -163,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\Rifa\\Program.cs",
               "RelativeDocumentMoniker": "Rifa\\Program.cs",
@@ -175,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "User-Infrastrucred.csproj",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\User-Infrastrucred.csproj",
               "RelativeDocumentMoniker": "User-Infrastrucred\\User-Infrastrucred.csproj",
@@ -187,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Estagiario2\\Desktop\\MovtechProjects\\Rifa\\User-Infrastrucred\\UserDbContext.cs",
               "RelativeDocumentMoniker": "User-Infrastrucred\\UserDbContext.cs",

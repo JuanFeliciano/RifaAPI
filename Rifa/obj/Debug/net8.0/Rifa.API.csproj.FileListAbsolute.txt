@@ -146,3 +146,4 @@ C:\Users\Estagiario2\Desktop\MovtechProjects\Rifa\Rifa\obj\Debug\net8.0\refint\R
 C:\Users\Estagiario2\Desktop\MovtechProjects\Rifa\Rifa\obj\Debug\net8.0\Rifa.API.pdb
 C:\Users\Estagiario2\Desktop\MovtechProjects\Rifa\Rifa\obj\Debug\net8.0\Rifa.API.genruntimeconfig.cache
 C:\Users\Estagiario2\Desktop\MovtechProjects\Rifa\Rifa\obj\Debug\net8.0\ref\Rifa.API.dll
+C:\Users\Estagiario2\Desktop\MovtechProjects\Rifa\Rifa\obj\Debug\net8.0\Rifa.API.sourcelink.json

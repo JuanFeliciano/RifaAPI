@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rifa.API", "Rifa\Rifa.API.csproj", "{53E723A5-1A19-476C-AE81-34D23CB02AB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rifa.API", "Rifa\Rifa.API.csproj", "{53E723A5-1A19-476C-AE81-34D23CB02AB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User-Infrastrucred", "User-Infrastrucred\User-Infrastrucred.csproj", "{2B26B68C-2653-4286-AFBF-32EC270AD8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User-Infrastrucred", "User-Infrastrucred\User-Infrastrucred.csproj", "{2B26B68C-2653-4286-AFBF-32EC270AD8EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Domain", "User-Domain\User.Domain.csproj", "{85ABCDB9-56F6-49C6-AD36-E5DE63A88625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User.Domain", "User-Domain\User.Domain.csproj", "{85ABCDB9-56F6-49C6-AD36-E5DE63A88625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RifaApp", "RifaApp\RifaApp.csproj", "{6C9DC006-15A7-4C32-876E-8C9267C6C4A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RifaApp", "RifaApp\RifaApp.csproj", "{6C9DC006-15A7-4C32-876E-8C9267C6C4A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{1E35FA7F-E6B6-4872-A00A-B7A35E286A5C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

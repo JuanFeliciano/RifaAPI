@@ -50,6 +50,35 @@ namespace Rifa.API.Controllers
             }
         }
 
+        [HttpPut]
+        [Route("updt")]
+        public IActionResult Update(int id, User user)
+        {
+            var item = _db.Users.Find(id);
+
+            if (item is null)
+            {
+                return NotFound("Usuário não encontrado!");
+            }
+
+            try
+            {
+                item.Nome = user.Nome;
+                item.Sobrenome = user.Sobrenome;
+                item.Email = user.Email;
+                item.CPF = user.CPF;
+                _db.SaveChanges();
+                return Ok($"Usuário alterado com sucesso!\n {user}");
+            }
+            catch (Exception e)
+            {
+
+                return BadRequest($"Dados estão inválidos - {e}");
+            }
+        }
+
+
+
         [HttpDelete]
         [Route("del")]
         public IActionResult Delete(int id)
